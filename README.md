@@ -1,2 +1,1 @@
-# google-test-lab
-For quick proof
+mkdir build && cd build && cmake .. && cmake --build .
